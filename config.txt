@@ -1,0 +1,6 @@
+owner=541811434657415169
+prefix=mo2
+game=HuH
+stayinchannel=true
+songinstatus=false
+token=NTk4NDAwNjI4MjM4MDU3NTAy.XSWGQw.t-QCH6RzirvN1Xe0__CcrMftrdc
